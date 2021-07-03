@@ -1,3 +1,7 @@
+
+CREATE DATABASE financas;
+
+
 CREATE TABLE IF NOT EXISTS banco(
 	id_numero INTEGER NOT NULL,
 	banco_nome VARCHAR(50) NOT NULL,
